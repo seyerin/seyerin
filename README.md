@@ -20,7 +20,6 @@
           src="https://img.shields.io/badge/CSS-FFDE44?&style=flat&logo=css3&logoColor=white"
           alt=""
         />
-
         <img
           src="https://img.shields.io/badge/JavaScript-FF4C4C?style=flat&logo=JavaScript&logoColor=white"
           alt=""
