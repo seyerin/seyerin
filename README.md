@@ -12,6 +12,7 @@
         justify-content: center;
       }
     </style>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.css" rel="stylesheet">
   </head>
   <body>
     <h1 class="title">YERIN WORLD</h1>
