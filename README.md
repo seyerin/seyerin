@@ -1,6 +1,10 @@
 <br />
     <div align="center">
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F79160&center=true&vCenter=true&random=false&width=435&lines=%E2%AD%90+WELCOME+TO+YERIN+WORLD+%E2%AD%90" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"
+        ><img
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79160&center=true&vCenter=true&repeat=false&random=true&width=400&height=100&lines=%E2%AD%90+WELCOME+TO+YERIN+WORLD+%E2%AD%90""
+        alt="Typing SVG" /></a
+      >
     </div>
     <br />
     <div align="center">
@@ -16,6 +20,7 @@
           src="https://img.shields.io/badge/CSS-FFDE44?&style=flat&logo=css3&logoColor=white"
           alt=""
         />
+
         <img
           src="https://img.shields.io/badge/JavaScript-FF4C4C?style=flat&logo=JavaScript&logoColor=white"
           alt=""
@@ -55,7 +60,13 @@
     <br />
     <div align="center">
       <img
+        style="height: 129px; margin-bottom: 5px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyerin&layout=compact"
+        alt=""
+      />
+      <img
+        style="width: 300px; height: 140px"
+        src="https://github-readme-stats.vercel.app/api?username=seyerin"
         alt=""
       />
     </div>
