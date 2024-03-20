@@ -1,30 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      @font-face {
-        font-family: "BagelFatOne-Regular";
-        src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/BagelFatOne-Regular.woff2")
-          format("woff2");
-        font-weight: normal;
-        font-style: normal;
-      }
-    </style>
-  </head>
-  <body>
-    <br />
-    <br />
-    <div style="display: flex; justify-content: center; align-items: center">
-      <span style="color: #ebefff; font-size: 60px; font-family: BagelFatOne-Regular; position: absolute; z-index: 3"
-        >SSUN</span
-      >
-      <div style="width: 500px; height: 150px; background-color: #2470e280; filter: blur(50px)"></div>
-    </div>
-
-    <div align="center">
+<div align="center">
       <a href="https://git.io/typing-svg"
         ><img
         src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79160&center=true&vCenter=true&repeat=false&random=true&width=400&height=100&lines=%E2%AD%90+WELCOME+TO+YERIN+WORLD+%E2%AD%90""
@@ -60,7 +34,7 @@
     </div>
     <br />
     <br />
-    <!-- <div align="center">
+    <div align="center">
       <img
         style="height: 129px; margin-bottom: 5px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyerin&layout=compact"
@@ -71,6 +45,4 @@
         src="https://github-readme-stats.vercel.app/api?username=seyerin&theme=flag-india"
         alt=""
       />
-    </div> -->
-  </body>
-</html>
+    </div>
