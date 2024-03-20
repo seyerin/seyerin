@@ -1,7 +1,7 @@
 <div align="center">
       <a href="https://git.io/typing-svg"
         ><img
-        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79160&center=true&vCenter=true&repeat=false&random=true&width=400&height=100&lines=%E2%AD%90+WELCOME+TO+YERIN+WORLD+%E2%AD%90""
+        src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F79160&center=true&vCenter=true&repeat=true&random=true&width=400&height=100&lines=%E2%AD%90+WELCOME+TO+YERIN+WORLD+%E2%AD%90""
         alt="Typing SVG" /></a>
     </div>
     <div align="center">
