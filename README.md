@@ -1,19 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
-    <style>
-      @font-face {
-        font-family: "BagelFatOne-Regular";
-        src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_JAMO@1.0/BagelFatOne-Regular.woff2")
-          format("woff2");
-        font-weight: normal;
-        font-style: normal;
-      }
-    </style>
-  </head>
   <body>
     <br />
     <br />
