@@ -38,7 +38,7 @@
         alt=""
       />
       <img
-        style="width: 300px; height: 135px"
+        style="width: 300px; height: 129px"
         src="https://github-readme-stats.vercel.app/api?username=seyerin&theme=flag-india"
         alt=""
       />
