@@ -34,12 +34,12 @@
     <div align="center">
       <img
         style="height: 129px; margin-bottom: 5px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=seyerin&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=yrrr-rrr&layout=compact"
         alt=""
       />
       <img
         style="width: 300px; height: 129px"
-        src="https://github-readme-stats.vercel.app/api?username=seyerin&theme=flag-india"
+        src="https://github-readme-stats.vercel.app/api?username=yrrr-rrr&theme=flag-india"
         alt=""
       />
     </div>
